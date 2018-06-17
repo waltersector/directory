@@ -1,6 +1,5 @@
 # directory
-----
-###Add your discord name and your relevant skills for collaboration in order of what you're most skilled with or most willing to contribute.
+#### Add your discord name and your relevant skills for collaboration in order of what you're most skilled with or most willing to contribute.
 
 
 example: 
