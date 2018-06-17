@@ -7,11 +7,11 @@ Please follow the format, and use this link to add yourself: https://github.com/
 
 #### example: 
 
-When you type this:
+**When you type this:**
 
 `- JonnyAppleseed - C++, Debugging, Golang `
 
-It looks like this:
+**It looks like this:**
 
 - JonnyAppleseed - C++, Debugging, Golang
 
@@ -20,11 +20,11 @@ This suggests your discord name is JonnyAppleseed, and you're most skilled with 
 
 
 
-When you type this:
+**When you type this:**
 
 `- ShowtimeTurtle - 3d modelling (Cinema4d), Vector imaging (Illustrator, Inkwell), marketing (Twitter, FB)`
 
-It looks like this:
+**It looks like this:**
 
 - ShowtimeTurtle - 3d modelling (Cinema4d), Vector imaging (Illustrator, Inkwell), marketing (Twitter, FB)
 
