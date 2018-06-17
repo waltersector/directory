@@ -1,6 +1,9 @@
 # directory
 #### Add your discord name and your relevant skills for collaboration in order of what you're most skilled with or most willing to contribute.
 
+Please follow the format, and use this link to add yourself: https://github.com/RocksteadyTC/directory/edit/master/CONTRIBUTORS
+
+
 
 #### example: 
 
