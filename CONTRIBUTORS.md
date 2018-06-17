@@ -1,4 +1,4 @@
-#contributors
+# contributors
 
 hyphen, discord name, dominant skill first
 
