@@ -17,5 +17,5 @@ This suggests your discord name is JonnyAppleseed, and you're most skilled with 
 This says your discord name is ShowtimeTurtle, and you're most willing to do 3d modelling using Cinema4d, vectors using Adobe Illustrator and Inkwell, and you are willing to contribute to marketing efforts on Twitter and FB
 
 
-Please follow the format, and use this link to add yourself: https://github.com/RocksteadyTC/directory/edit/master/LICENSE.md/CONTRIBUTORS
+Please follow the format, and use this link to add yourself: https://github.com/RocksteadyTC/directory/edit/master/CONTRIBUTORS
 
