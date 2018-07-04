@@ -6,3 +6,4 @@ hyphen, discord name, dominant skill first
 - Canti - C#, brainstorming, misspelling simple words
 - SoreGums - Infrastructure, Web, Golang
 - Zpalmtree - C++, C#, Golang, zedwallet
+- Tmac25 - Web Apps, Javascript, PHP, Laravel, Angular, Vue, SQL, REST APIs, C#
